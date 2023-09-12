@@ -1,0 +1,34 @@
+
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: brown;
+    text-align: center;
+}
+
+ol {
+    padding: 10%;
+    list-style-type: decimal;
+}
+
+li {
+    padding: 10px;
+    border: 1px solid#cccc;
+    background-color: #f7c2f7;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 60px;
+}
+
+li:hover {
+    background-color: aquamarine;
+    color: chocolate;
+}
+
+li a {
+    text-decoration: none;
+}

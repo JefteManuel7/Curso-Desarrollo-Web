@@ -1,0 +1,60 @@
+
+/* Estilos para encabezados */
+h1 {
+    color:  brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+h2 {
+
+    color: coral;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    text-align: right;
+
+}
+
+
+/* Estilo para los parrafos */
+p {
+    color: blueviolet;
+    background-color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    padding: 30px;
+    text-align: justify;
+
+}
+
+
+pre {
+    color: rgb(20, 124, 25);
+    background-color: rgb(179, 169, 156);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+
+}
+
+article {
+    color: rgb(183, 18, 233);
+    background-color: rgb(179, 169, 156);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 13px;
+    line-height: 2.0;
+    padding: 10px;
+
+}
+
+
+ul {
+    list-style: none;
+    text-decoration: none;
+    margin: 0 10px;
+    display: flex;
+}
+li {
+    margin: 0 10px;
+}
